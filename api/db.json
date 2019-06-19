@@ -12,15 +12,20 @@
     },
     {
       "title": "new stream (third)",
-      "description": "this is the new stream",
-      "userId": "106442865939264543909",
+      "description": ":)",
       "id": 3
     },
     {
-      "title": "programmatic nav",
+      "title": "programmatic nav - EDITTED",
       "description": "go back to the thing",
       "userId": "106442865939264543909",
       "id": 4
+    },
+    {
+      "title": "code reuse",
+      "description": "modularizing components",
+      "userId": "106442865939264543909",
+      "id": 5
     }
   ]
 }
